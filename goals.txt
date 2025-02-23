@@ -1,0 +1,4 @@
+My programming goals:
+1. Become proficient in backend development.
+2. Learn how to build secure and scalable APIs.
+3. Contribute to open-source projects to improve my skills.
